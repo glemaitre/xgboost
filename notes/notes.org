@@ -1,0 +1,14 @@
+# Compile XGBoost
+
+* DONE Compile in Debug mode with the flag -O0
+  CLOSED: [2017-03-16 jue 16:36]
+* DONE Change path to execute the examples
+  CLOSED: [2017-03-16 jue 16:36]
+* DONE Modify `mushroom.conf`:
+  CLOSED: [2017-03-16 jue 16:36]
+** DONE Force to `hist`
+   CLOSED: [2017-03-16 jue 16:36]
+** DONE Force 1 thread
+   CLOSED: [2017-03-16 jue 16:36]
+** DONE Force depth growth
+   CLOSED: [2017-03-16 jue 16:36]
